@@ -1,4 +1,4 @@
-import SwapiService from "../../services/swapi-service";
+import SwapiService from "../services/swapi-service";
 import { withData } from "../hoc-helpers";
 import ItemList from "../item-list";
 import React from "react";

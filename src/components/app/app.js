@@ -7,7 +7,7 @@ import './app.css'
 import ErrorIndicator from "../error-indicator";
 import {PersonDetails, PersonList, PlanetList, StarshipList} from "../sw-components";
 import ErrorBoundary from "../error-boundary";
-import DummySwapiService from "../../services/dummy-swapi-service";
+import DummySwapiService from '../services/dummy-swapi-service';
 
 import { SwapiServiceProvider } from '../swapi-service-context';
 import SwapiService from "../services/swapi-service";
